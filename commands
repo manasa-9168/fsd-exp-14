@@ -1,0 +1,18 @@
+commands
+
+create folder open in cmd prmp
+python --version
+python -m pip install virtualenv
+py -m venv venv
+.\users\scripts\activate
+pip install Django
+django-admin startproject exp14
+cd exp14
+pip install djangorestframework
+django-admin startapp api
+django-admin startapp base
+code .
+copy code and in cmd rompt type
+
+py manage.py runserver
+
